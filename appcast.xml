@@ -3,14 +3,14 @@
 <channel>
     <title>sparkleTest Updates</title>
     <item>
-        <title>Version 0.9.1</title>
-        <pubDate>Thu, 21 May 2026 21:24:18 +0000</pubDate>
-        <sparkle:version>2.1</sparkle:version>
-        <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
-        <enclosure url="https://github.com/winjitsu/sparkleTest/releases/download/v0.9.1/SparkleTest-Installer.pkg"
-                   length="986729"
+        <title>Version 1.0</title>
+        <pubDate>Thu, 21 May 2026 22:44:20 +0000</pubDate>
+        <sparkle:version>1.0</sparkle:version>
+        <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+        <enclosure url="https://github.com/winjitsu/sparkle_test/releases/download/v1.0/SparkleTest-Installer.pkg"
+                   length="976909"
                    type="application/octet-stream"
-                   sparkle:edSignature="k9FjHgAmNIAp9HGQwmjTzeFyn2zFecIv1lta4/GXoJtDM2S3tazYVVnan1aGGwWbweZ2f0Hq1fvNu5DM5YVOBA==" />
+                   sparkle:edSignature="71vzQqQLKtuAn9SQgjVaAKi4AzmkPHEXFxrg1dIcawuwcQwdNde4X8lOaKIsSSBo8KXYPWR73D5mTRMbm2ULBA==" />
     </item>
 </channel>
 </rss>
