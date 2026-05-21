@@ -1,0 +1,1 @@
+Welcome to SparkleTest! This will install the app to your Applications folder.
