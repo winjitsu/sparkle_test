@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+    <title>sparkleTest Updates</title>
+    <item>
+        <title>Version 0.9.1</title>
+        <pubDate>Thu, 21 May 2026 21:24:18 +0000</pubDate>
+        <sparkle:version>2.1</sparkle:version>
+        <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+        <enclosure url="https://github.com/winjitsu/sparkleTest/releases/download/v0.9.1/SparkleTest-Installer.pkg"
+                   length="986729"
+                   type="application/octet-stream"
+                   sparkle:edSignature="k9FjHgAmNIAp9HGQwmjTzeFyn2zFecIv1lta4/GXoJtDM2S3tazYVVnan1aGGwWbweZ2f0Hq1fvNu5DM5YVOBA==" />
+    </item>
+</channel>
+</rss>
