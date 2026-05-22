@@ -3,14 +3,14 @@
 <channel>
     <title>sparkleTest Updates</title>
     <item>
-        <title>Version 3.7.1 (Build 1.6.11)</title>
-        <pubDate>Fri, 22 May 2026 04:24:27 +0000</pubDate>
-        <sparkle:version>1.6.11</sparkle:version>
+        <title>Version 3.7.1 (Build 1.6.12)</title>
+        <pubDate>Fri, 22 May 2026 17:52:56 +0000</pubDate>
+        <sparkle:version>1.6.12</sparkle:version>
         <sparkle:shortVersionString>3.7.1</sparkle:shortVersionString>
         <enclosure url="https://github.com/winjitsu/sparkle_test/releases/download/v3.7.1/SparkleTest-Installer.pkg"
-                   length="987343"
+                   length="987477"
                    type="application/octet-stream"
-                   sparkle:edSignature="Vrva3qfmZyVKddkF83HEPqRfIaJbDI47GsRWqEw/tdSeXy3xoc6bF9Yat2Hu/Tu39xyL6PH8sGVezWMcAQ5PDw==" />
+                   sparkle:edSignature="o2xhGumWZoLSt0KJcEqJT398UBF7RfFGOq2G0kTYl9J7NqMBc3yRa3bUFZiJINYEAVbKP6qCQeWLt+MRQuoyCg==" />
     </item>
 </channel>
 </rss>
